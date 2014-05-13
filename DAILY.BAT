@@ -1,0 +1,1 @@
+start C:\Python27\Python.exe D:\py\_djm\daily_python_tasks.py
